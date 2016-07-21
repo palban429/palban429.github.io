@@ -1,11 +1,11 @@
 .title_background {
 	background-image: url("../images/sunset.jpg");
-	background-size: 150px;
+	background-size: 200px;
 }
 
 .name {
 	text-align: center;
-	font-size:150px;
+	font-size:200px;
 	color:beige;
 	font-family: Ubuntu Condensed;
 }
