@@ -1,14 +1,13 @@
 .title_background {
 	background-image: url("../images/sunset.jpg");
-	background-size: 60px 40px
-	px;
+	background-size: 150px;
 }
 
 .name {
 	text-align: center;
-	font-size: 100px;
-	color:#DCCCA3;
-	font-family: 
+	font-size:150px;
+	color:beige;
+	font-family: Ubuntu Condensed;
 }
 
 
@@ -26,10 +25,8 @@
 .about-me {
 	text-align: center;
 	font-size: 60px;
-}
+	border-style: solid;
 
-.intro {
-	text-align: center;
 }
 
 #Projects {
@@ -41,8 +38,12 @@
 .project-name {
 	text-align: center;
 	font-size:60px;
+	border-style: solid;
 }
 
+.intro {
+	text-align: center;
+}
 
 #connections {
 	background-color:#A18276;
@@ -53,4 +54,5 @@
 .connections-name {
 	text-align: center;
 	font-size: 60px;
+	border-style: solid;
 }
